@@ -64,11 +64,11 @@ Dataverse ビューでの日時フィルタリング
 
 ## フィルタリング前のすべてのレコード
 
-| Name                         | ReferenceDate    |
-| ---------------------------- | ---------------- |
-| yyyy-mm-ddThh:00:00.0000000Z | yyyy/mm/dd hh:00 |
-|                              |                  |
-| yyyy-mm-ddThh:00:00.0000000Z | yyyy/mm/dd hh:00 |
+| Name                         | ReferenceDateUserLocal <br> 基準日(UserLocal) | ReferenceDateTimeZoneIndependent <br> 基準日(TimeZoneIndependent) |
+| ---------------------------- | --------------------------------------------- | ----------------------------------------------------------------- |
+| yyyy-mm-ddThh:00:00.0000000Z | yyyy/mm/dd hh:00                              |                                                                   |
+|                              |                                               |                                                                   |
+| yyyy-mm-ddThh:00:00.0000000Z | yyyy/mm/dd hh:00                              |                                                                   |
 
 ---
 
